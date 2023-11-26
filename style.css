@@ -39,15 +39,6 @@ h2 {
     font-size: 28px;
 }
 
-.ad {
-    position: absolute;
-    left: 900px;
-    top: 100px;
-    border: 5px dotted blue;
-    font-size: 40px;
-    margin: 100px;
-}
-
 .spiker {
     margin-left: 25px;
 }
