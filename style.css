@@ -1,44 +1,48 @@
-body {
-    font-family: sans-serif;
+header h1{
+    position: absolute;
+    bottom: 400px;
+    left: 96px;
+    background-color: rgb(24, 198, 211);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+li {
+    font-size: 20px;
+    padding: 8px;
+}
+.algo {
+    border: 3px dotted blue;
+}
+
+p {
+    font-size: 19px;
+}
+
+.alo {
+    margin-left: 80px;
+}
+
+span {
+    color: black;
+    background-color: lightblue;
+}
+
+img {
+    border: 3px dotted blue;
+}
+
+.N {
+    text-align: center;
+    color: rgb(0, 0, 0);
 }
 
 h1 {
     text-align: center;
     font-size: 40px;
-    color: rgb(78, 78, 78);
-    background-color: rgb(219, 219, 219);
-    width: 350px;
-    margin-left: 120px;
-    background-image: linear-gradient(to right, gray, white, red);
 }
 
-h1:hover {
-    color: rgb(201, 46, 46);
-    background-color: rgb(209, 67, 67);
-    transition: all 1s linear;
-}
-
-p {
-    font-size: 18px;
-    color: rgb(34, 34, 34);
-}
-
-span {
-    background-color: red;
-    color: white;
-}
-
-.ali {
-    color: blue;
-    background-color: white;
-    margin-left: 145px;
-    font-size: 25px;
-}
-
-h2 {
-    font-size: 28px;
-}
-
-.spiker {
-    margin-left: 25px;
+header {
+    background-color: lightblue;
+    width: 100%;
 }
