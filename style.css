@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(209, 67, 67);
+    background-color: rgb(219, 219, 219);
+}
+
+h1:hover {
+    color: rgb(219, 219, 219);
+    background-color: rgb(209, 67, 67);
+    transition: all 1s linear;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(34, 34, 34);
+}
+
+span {
+    background-color: red;
+    color: white;
+}
+
+.speaker {
+    margin-left: 18px;
+}
+
+.ali {
+    color: blue;
+    background-color: white;
+    margin-left: 145px;
+}
